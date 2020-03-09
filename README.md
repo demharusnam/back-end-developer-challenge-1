@@ -1,5 +1,7 @@
 # Back End Developer Challenge 2020 #
 
+# VIEW MY SOLUTION [HERE](https://github.com/demharusnam/back-end-developer-challenge-1). #
+
 Welcome to the Wise Publishing Back End Developer Challenge!
 
 ### Your Goal
