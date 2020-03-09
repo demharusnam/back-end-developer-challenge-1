@@ -1,4 +1,4 @@
-# VIEW MY SOLUTION [HERE](https://github.com/demharusnam/back-end-developer-challenge-1). #
+# VIEW MY SOLUTION [HERE](https://github.com/demharusnam/quotes). #
 
 # Back End Developer Challenge 2020 #
 
